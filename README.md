@@ -32,7 +32,7 @@ E-MAILE:
 9. **Perspektywa**:
  - rodzaj męski
 
-10 **Tytuł**:
+10. **Tytuł**:
  - Każdy e-mail powinien zaczynać się od odpowiednio dobranego tytułu.
 
 KOD PYTHONA:
