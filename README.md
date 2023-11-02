@@ -1,5 +1,7 @@
-# ChatGPT-Python-Email-Custome-Instruction
+# ChatGPT-Python-Email-Custom-Instruction
 Repozytorium zawiera spersonalizowane instrukcje dotyczące interakcji z modelem ChatGPT. Instrukcje obejmują preferencje dotyczące stylu kodowania w Pythonie oraz wzory e-maili w języku polskim. Ułatwia to skuteczne i spójne korzystanie z ChatGPT zgodnie z ustalonymi wytycznymi.
+
+Skopiuj poniższy tekst. Wklej go do swoich "Custom Instruction", aby uzyskać lepsze odpowiedzi
 
 E-MAILE:
 
